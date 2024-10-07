@@ -33,4 +33,4 @@ def main():
         print('wrong')
 
 
-print(main())
+main()
